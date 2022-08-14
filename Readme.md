@@ -16,6 +16,12 @@ Um e-commerce de produtos naturais.
 
 
 
+<br>
+<br>
+<br>
+<br>
+
+#### Desenvolvido em **React Native**
 
 
 
