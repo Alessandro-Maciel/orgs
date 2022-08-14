@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text } from 'react-native';
 
-export default function TextMontSerrat({ children, style }){
+export default function Texto({ children, style }){
     let styleText = estilo.text;
 
     if (style?.fontWeight ===  'bold') {
