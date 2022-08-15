@@ -6,10 +6,10 @@ import topo from "../../../../assets/topo.png";
 
 const width = Dimensions.get("screen").width;
 
-export default function Topo(){
+export default function Topo({titulo}){
     return <>
         <Image source={topo} style={style.topo} />
-        <Texto style={style.titulo}>Detalhe da Cesta</Texto>
+        <Texto style={style.titulo}>{ titulo }</Texto>
     </>
 }
 
