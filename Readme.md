@@ -9,18 +9,6 @@ Um e-commerce de produtos naturais.
 
  Obs.: Você precisará instalar o aplicativo chamado **Expo Go** em seu celular para abrir o projeto nas plataformas iOS e Android. 
 
-## Começando
-<h4 align="center">🚧  Em construção...  🚧</h4>
-
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-
 #### Desenvolvido em **React Native**
 
 
